@@ -68,8 +68,9 @@
 ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/PUPPETEER-%2344A833.svg?style=for-the-badge&logo=puppeteer&logoColor=white)
  
+![3d-profile](profile-3d-contrib/profile-night-rainbow.svg)
  
-![snake gif](https://github.com/luizbizzio/luizbizzio/blob/output/github-contribution-grid-snake.svg)
+![snake](https://github.com/luizbizzio/luizbizzio/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
