@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="banner.jpg" alt="Banner" width="100%" />
+</div>
+
 # Hi there, I'm Luiz 👋😀
 
 Welcome to my GitHub profile!
