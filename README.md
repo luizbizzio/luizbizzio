@@ -26,5 +26,6 @@ I'm a tech enthusiast dedicated to innovation. My projects focus on developing e
 I’d love to hear from you, whether it’s about tech, projects, or just to say hi!
 
 - **Instagram**: [@luizbizzio](https://instagram.com/luizbizzio)
+- **LinkedIn**: [@luizbizzio](https://linkedin.com/in/luizbizzio/)
 
 Let's create amazing things together!
