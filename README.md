@@ -10,8 +10,8 @@ I'm a tech enthusiast dedicated to innovation. My projects focus on developing e
 
 ## 🚀 What I'm Up To
 
-- **Turning ideas into reality**: Working on creative and practical projects.
 - **Exploring new tech**: Always on the lookout for the latest in technology.
+- **Turning ideas into reality**: Working on creative and practical projects.
 - **Building cool stuff**: From custom dashboards to handy tools, I’m always creating.
 
 ## 🌟 Featured Projects
