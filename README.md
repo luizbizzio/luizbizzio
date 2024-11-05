@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/266c79ee-53f0-4bc6-941f-87ff7e9a27de" alt="Pixelated" style="width: 100%; height: auto; max-width: 100%;"/>
+    <img src="banner1.gif" alt="Pixelated" style="height:100%; width: 1000px;"/>
 </div>
 
 # Hi there, I'm Luiz 👋😀
