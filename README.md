@@ -1,5 +1,6 @@
-
-![Pixelated](https://github.com/user-attachments/assets/266c79ee-53f0-4bc6-941f-87ff7e9a27de)
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/266c79ee-53f0-4bc6-941f-87ff7e9a27de" alt="Pixelated" style="width: 100%; height: auto; max-width: 100%;"/>
+</div>
 
 # Hi there, I'm Luiz 👋😀
 
