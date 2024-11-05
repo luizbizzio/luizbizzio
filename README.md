@@ -1,5 +1,5 @@
-<div style="width: 1000px; height: 100%; background: url('banner.webp') center center / cover no-repeat;">
-    <img src="banner.gif" alt="Banner" style="width: 1000px; height: 100%;">
+<div>
+    <img src="banner.gif" alt="Banner" style="height:100%; width: 1000px;"/>
 </div>
 
 # Hi there, I'm Luiz 👋😀
