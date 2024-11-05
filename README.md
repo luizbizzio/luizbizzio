@@ -1,6 +1,7 @@
-<div align="center">
-    <img src="banner.jpg" alt="Banner" width="100%" />
-</div>
+
+![Snow Pixel Art Gif](https://github.com/user-attachments/assets/1c916b2e-b323-43c9-93eb-e937c9ace5a5)
+![Pixelated](https://github.com/user-attachments/assets/ad9dd99e-4b27-43d7-8914-8923ef7a5a0f)
+
 
 # Hi there, I'm Luiz 👋😀
 
