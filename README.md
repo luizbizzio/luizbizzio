@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="banner.gif" alt="Pixelated" style="height:100%; width: 1000px;"/>
+    <img src="banner1.gif" alt="Pixelated" style="height:100%; width: 1000px;"/>
 </div>
 
 # Hi there, I'm Luiz 👋😀
