@@ -1,5 +1,5 @@
 
-![Snow Pixel Art Gif](https://github.com/user-attachments/assets/1c916b2e-b323-43c9-93eb-e937c9ace5a5)
+![Pixelated](https://github.com/user-attachments/assets/266c79ee-53f0-4bc6-941f-87ff7e9a27de)
 
 # Hi there, I'm Luiz 👋😀
 
