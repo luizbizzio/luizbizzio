@@ -91,5 +91,6 @@ Let’s connect! I’m always open to new collaborations, discussions on tech, a
 
 - **Instagram**: [@luizbizzio](https://instagram.com/luizbizzio)
 - **LinkedIn**: [@luizbizzio](https://linkedin.com/in/luizbizzio/)
+- **Email**: contact@luizbizzio.com
 
 Let's create amazing things together!
