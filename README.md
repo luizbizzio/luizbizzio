@@ -74,14 +74,9 @@ Below is a list of some of the tools and technologies I use in my projects and w
 ## DevOps Tools
 <img src="https://img.shields.io/badge/git-%230000?style=for-the-badge&logo=git&logoColor=d7593d" alt="Git" /> &nbsp;
 <img src="https://img.shields.io/badge/docker-%230000?style=for-the-badge&logo=docker&logoColor=3e8bdb" alt="Docker" />
-<img src="https://img.shields.io/badge/bash-%230000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> &nbsp;
-<img src="https://img.shields.io/badge/Powershell-%230000?style=for-the-badge&logo=gnubash&logoColor=326ab4" alt="Powershell" /> &nbsp;
-## Design & Productivity Tools
-<img src="https://img.shields.io/badge/Photoshop-%230000?style=for-the-badge&logo=adobe%20photoshop&logoColor=54a1f0" alt="Photoshop" /> &nbsp;
-<img src="https://img.shields.io/badge/Canva-%230000?style=for-the-badge&logo=Canva&logoColor=60bdc7" alt="Canva" /> &nbsp;
 <img src="https://img.shields.io/badge/Figma-%230000?style=for-the-badge&logo=figma&logoColor=e16038" alt="Figma" /> &nbsp;
-<img src="https://img.shields.io/badge/Miro-%230000?style=for-the-badge&logo=miro&logoColor=f6c752" alt="Miro" /> &nbsp;
-<img src="https://img.shields.io/badge/Notion-%230000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+<img src="https://img.shields.io/badge/bash-%230000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> &nbsp;
+<img src="https://img.shields.io/badge/Powershell-%230000?style=for-the-badge&logo=gnubash&logoColor=326ab4" alt="Powershell" />
 
 ---
 
