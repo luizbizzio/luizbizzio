@@ -49,31 +49,36 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <img src="https://img.shields.io/badge/javascript-%230000?style=for-the-badge&logo=javascript&logoColor=f2e054" alt="JavaScript" /> &nbsp;
 <img src="https://img.shields.io/badge/react-%230000?style=for-the-badge&logo=react&logoColor=387ca0" alt="React" /> &nbsp;
 <img src="https://img.shields.io/badge/react%20native-%230000?style=for-the-badge&logo=react&logoColor=82d7f7" alt="React Native" />
+## Backend
+<img src="https://img.shields.io/badge/python-%230000?style=for-the-badge&logo=python&logoColor=436d9b" alt="Python" /> &nbsp;
+<img src="https://img.shields.io/badge/Node.js-%230000?style=for-the-badge&logo=node.js&logoColor=94c458" alt="Node.js" /> &nbsp;
+<img src="https://img.shields.io/badge/Next.js-%230000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
 ## Database
 <img src="https://img.shields.io/badge/sqlite-%230000?style=for-the-badge&logo=sqlite&logoColor=3a7ec6" alt="SQLite" /> &nbsp;
 <img src="https://img.shields.io/badge/MariaDB-%230000?style=for-the-badge&logo=mariadb&logoColor=b6795f" alt="MariaDB" /> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%230000?style=for-the-badge&logo=mongodb&logoColor=6ce975" alt="MongoDB" />
+## Web Server
+<img src="https://img.shields.io/badge/nginx-%230000?style=for-the-badge&logo=nginx&logoColor=408f43" alt="Nginx" /> &nbsp;
+<img src="https://img.shields.io/badge/apache-%230000?style=for-the-badge&logo=apache&logoColor=983464" alt="Apache" />
 ## Cloud Services
 <img src="https://img.shields.io/badge/Cloudflare-%230000?style=for-the-badge&logo=Cloudflare&logoColor=dd8339" alt="Cloudflare" /> &nbsp;
 <img src="https://img.shields.io/badge/github%20pages-%230000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" /> &nbsp;
 <img src="https://img.shields.io/badge/vercel-%230000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> &nbsp;
 <img src="https://img.shields.io/badge/heroku-%230000?style=for-the-badge&logo=heroku&logoColor=635f9c" alt="Heroku" />
-## VPN and Security
-<img src="https://img.shields.io/badge/WireGuard-%230000?style=for-the-badge&logo=wireguard&logoColor=79221f" alt="WireGuard" /> &nbsp;
-<img src="https://img.shields.io/badge/Tailscale-%230000?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
-## Backend
-<img src="https://img.shields.io/badge/python-%230000?style=for-the-badge&logo=python&logoColor=436d9b" alt="Python" /> &nbsp;
-<img src="https://img.shields.io/badge/Node.js-%230000?style=for-the-badge&logo=node.js&logoColor=94c458" alt="Node.js" /> &nbsp;
-<img src="https://img.shields.io/badge/Next.js-%230000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-## Web Server
-<img src="https://img.shields.io/badge/nginx-%230000?style=for-the-badge&logo=nginx&logoColor=408f43" alt="Nginx" /> &nbsp;
-<img src="https://img.shields.io/badge/apache-%230000?style=for-the-badge&logo=apache&logoColor=983464" alt="Apache" />
 ## Monitoring and Logging
 <img src="https://img.shields.io/badge/grafana-%230000?style=for-the-badge&logo=grafana&logoColor=ee753c" alt="Grafana" /> &nbsp;
 <img src="https://img.shields.io/badge/prometheus-%230000?style=for-the-badge&logo=prometheus&logoColor=d66140" alt="Prometheus" />
+## VPN and Security
+<img src="https://img.shields.io/badge/WireGuard-%230000?style=for-the-badge&logo=wireguard&logoColor=79221f" alt="WireGuard" /> &nbsp;
+<img src="https://img.shields.io/badge/Tailscale-%230000?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" />
 ## SSL/TLS
 <img src="https://img.shields.io/badge/OpenSSL-%230000?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" /> &nbsp;
 <img src="https://img.shields.io/badge/Certbot-%230000?style=for-the-badge&logo=probot&logoColor=db3e37" alt="Certbot" />
+## DevOps Tools
+<img src="https://img.shields.io/badge/git-%230000?style=for-the-badge&logo=git&logoColor=d7593d" alt="Git" /> &nbsp;
+<img src="https://img.shields.io/badge/docker-%230000?style=for-the-badge&logo=docker&logoColor=3e8bdb" alt="Docker" />
+<img src="https://img.shields.io/badge/bash-%230000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> &nbsp;
+<img src="https://img.shields.io/badge/Powershell-%230000?style=for-the-badge&logo=gnubash&logoColor=326ab4" alt="Powershell" /> &nbsp;
 ## Design and Tools
 <img src="https://img.shields.io/badge/Photoshop-%230000?style=for-the-badge&logo=adobe%20photoshop&logoColor=54a1f0" alt="Photoshop" /> &nbsp;
 <img src="https://img.shields.io/badge/Canva-%230000?style=for-the-badge&logo=Canva&logoColor=60bdc7" alt="Canva" /> &nbsp;
@@ -81,10 +86,7 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <img src="https://img.shields.io/badge/Miro-%230000?style=for-the-badge&logo=miro&logoColor=f6c752" alt="Miro" /> &nbsp;
 <img src="https://img.shields.io/badge/Notion-%230000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 
-
-
 ---
-
 
 ## 📫 Reach Me
 
