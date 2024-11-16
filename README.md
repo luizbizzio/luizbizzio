@@ -43,7 +43,7 @@ Here are a few of my key projects, each designed to tackle specific needs and de
 
 Below is a list of some of the tools and technologies I use in my projects and work.
 
-## Frontend & Backend
+## Web Development
 <img src="https://img.shields.io/badge/html5-%230000?style=for-the-badge&logo=html5&logoColor=d96b39" alt="HTML5" /> &nbsp;
 <img src="https://img.shields.io/badge/css3-%230000?style=for-the-badge&logo=css3&logoColor=2e4ad7" alt="CSS3" /> &nbsp;
 <img src="https://img.shields.io/badge/javascript-%230000?style=for-the-badge&logo=javascript&logoColor=f2e054" alt="JavaScript" /> &nbsp;
@@ -52,7 +52,7 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <img src="https://img.shields.io/badge/python-%230000?style=for-the-badge&logo=python&logoColor=436d9b" alt="Python" /> &nbsp;
 <img src="https://img.shields.io/badge/Node.js-%230000?style=for-the-badge&logo=node.js&logoColor=94c458" alt="Node.js" /> &nbsp;
 <img src="https://img.shields.io/badge/Next.js-%230000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-## Database & Web Server
+## Databases & Web Servers
 <img src="https://img.shields.io/badge/sqlite-%230000?style=for-the-badge&logo=sqlite&logoColor=3a7ec6" alt="SQLite" /> &nbsp;
 <img src="https://img.shields.io/badge/MariaDB-%230000?style=for-the-badge&logo=mariadb&logoColor=b6795f" alt="MariaDB" /> &nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%230000?style=for-the-badge&logo=mongodb&logoColor=6ce975" alt="MongoDB" />
@@ -63,10 +63,10 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <img src="https://img.shields.io/badge/github%20pages-%230000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" /> &nbsp;
 <img src="https://img.shields.io/badge/vercel-%230000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> &nbsp;
 <img src="https://img.shields.io/badge/heroku-%230000?style=for-the-badge&logo=heroku&logoColor=635f9c" alt="Heroku" />
-## Monitoring and Logging
+## Monitoring & Logging
 <img src="https://img.shields.io/badge/grafana-%230000?style=for-the-badge&logo=grafana&logoColor=ee753c" alt="Grafana" /> &nbsp;
 <img src="https://img.shields.io/badge/prometheus-%230000?style=for-the-badge&logo=prometheus&logoColor=d66140" alt="Prometheus" />
-### **VPN Security & SSL/TLS**
+## Security & SSL/TLS
 <img src="https://img.shields.io/badge/WireGuard-%230000?style=for-the-badge&logo=wireguard&logoColor=79221f" alt="WireGuard" /> &nbsp;
 <img src="https://img.shields.io/badge/Tailscale-%230000?style=for-the-badge&logo=tailscale&logoColor=white" alt="Tailscale" /> &nbsp;
 <img src="https://img.shields.io/badge/OpenSSL-%230000?style=for-the-badge&logo=openssl&logoColor=white" alt="OpenSSL" /> &nbsp;
@@ -76,7 +76,7 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <img src="https://img.shields.io/badge/docker-%230000?style=for-the-badge&logo=docker&logoColor=3e8bdb" alt="Docker" />
 <img src="https://img.shields.io/badge/bash-%230000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> &nbsp;
 <img src="https://img.shields.io/badge/Powershell-%230000?style=for-the-badge&logo=gnubash&logoColor=326ab4" alt="Powershell" /> &nbsp;
-## Design and Tools
+## Design & Productivity Tools
 <img src="https://img.shields.io/badge/Photoshop-%230000?style=for-the-badge&logo=adobe%20photoshop&logoColor=54a1f0" alt="Photoshop" /> &nbsp;
 <img src="https://img.shields.io/badge/Canva-%230000?style=for-the-badge&logo=Canva&logoColor=60bdc7" alt="Canva" /> &nbsp;
 <img src="https://img.shields.io/badge/Figma-%230000?style=for-the-badge&logo=figma&logoColor=e16038" alt="Figma" /> &nbsp;
