@@ -18,6 +18,62 @@ I'm Luiz Bizzio, a Business & Technology Specialist dedicated to creating effici
 
 ---
 
+## 💻 **Tech Stack**
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/html5-%230000?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
+![CSS3](https://img.shields.io/badge/css3-%230000?style=for-the-badge&logo=css3&logoColor=white) &nbsp; 
+![JavaScript](https://img.shields.io/badge/javascript-%230000?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
+![React](https://img.shields.io/badge/react-%230000?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp; 
+![React Native](https://img.shields.io/badge/react%20native-%230000?style=for-the-badge&logo=react&logoColor=white)
+
+### **Backend**
+![Python](https://img.shields.io/badge/python-%230000?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp; 
+![Node.js](https://img.shields.io/badge/Node.js-%230000?style=for-the-badge&logo=node.js&logoColor=white) &nbsp; 
+![Next.js](https://img.shields.io/badge/Next.js-%230000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### **Database**
+![SQLite](https://img.shields.io/badge/sqlite-%230000?style=for-the-badge&logo=sqlite&logoColor=white) &nbsp; 
+![MariaDB](https://img.shields.io/badge/MariaDB-%230000?style=for-the-badge&logo=mariadb&logoColor=white) &nbsp; 
+![MongoDB](https://img.shields.io/badge/MongoDB-%230000?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### **Web Server**
+![Nginx](https://img.shields.io/badge/nginx-%230000?style=for-the-badge&logo=nginx&logoColor=white) &nbsp; 
+![Apache](https://img.shields.io/badge/apache-%230000?style=for-the-badge&logo=apache&logoColor=white)
+
+### **Cloud Services**
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%230000?style=for-the-badge&logo=Cloudflare&logoColor=white) &nbsp; 
+![GitHub Pages](https://img.shields.io/badge/github%20pages-%230000?style=for-the-badge&logo=github&logoColor=white) &nbsp; 
+![Vercel](https://img.shields.io/badge/vercel-%230000?style=for-the-badge&logo=vercel&logoColor=white) &nbsp; 
+![Heroku](https://img.shields.io/badge/heroku-%230000?style=for-the-badge&logo=heroku&logoColor=white)
+
+### **Monitoring and Logging**
+![Grafana](https://img.shields.io/badge/grafana-%230000?style=for-the-badge&logo=grafana&logoColor=white) &nbsp; 
+![Prometheus](https://img.shields.io/badge/prometheus-%230000?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### **VPN and Security**
+![WireGuard](https://img.shields.io/badge/WireGuard-%230000?style=for-the-badge&logo=wireguard&logoColor=white) &nbsp; 
+![Tailscale](https://img.shields.io/badge/Tailscale-%230000?style=for-the-badge&logo=tailscale&logoColor=white)
+
+### **SSL/TLS**
+![OpenSSL](https://img.shields.io/badge/OpenSSL-%230000?style=for-the-badge&logo=openssl&logoColor=white) &nbsp; 
+![Certbot](https://img.shields.io/badge/Certbot-%230000?style=for-the-badge&logo=probot&logoColor=white)
+
+### **DevOps Tools**
+![Git](https://img.shields.io/badge/git-%230000?style=for-the-badge&logo=git&logoColor=white) &nbsp; 
+![Docker](https://img.shields.io/badge/docker-%230000?style=for-the-badge&logo=docker&logoColor=white) &nbsp; 
+![Bash](https://img.shields.io/badge/bash-%230000?style=for-the-badge&logo=gnubash&logoColor=white) &nbsp; 
+![Powershell](https://img.shields.io/badge/Powershell-%230000?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### **Design and Tools**
+![Photoshop](https://img.shields.io/badge/Photoshop-%230000?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) &nbsp; 
+![Canva](https://img.shields.io/badge/Canva-%230000?style=for-the-badge&logo=Canva&logoColor=white) &nbsp; 
+![Figma](https://img.shields.io/badge/Figma-%230000?style=for-the-badge&logo=figma&logoColor=white) &nbsp; 
+![Miro](https://img.shields.io/badge/Miro-%230000?style=for-the-badge&logo=miro&logoColor=white) &nbsp; 
+![Notion](https://img.shields.io/badge/Notion-%230000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
 ## 🌟 Project Highlights
 
 Here are a few of my key projects, each designed to tackle specific needs and deliver valuable insights:
@@ -37,7 +93,9 @@ Here are a few of my key projects, each designed to tackle specific needs and de
 - **[Currency Exporter](https://github.com/luizbizzio/currency-exporter)**  
   Real-time currency exchange rate monitor, optimized for Prometheus. Ideal for staying updated with global exchange rates directly in your monitoring stack.
 
+
 ---
+
 
 ## 📫 Reach Me
 
