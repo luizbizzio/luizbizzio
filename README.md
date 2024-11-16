@@ -44,7 +44,7 @@ Here are a few of my key projects, each designed to tackle specific needs and de
 Below is a list of some of the tools and technologies I use in my projects and work.
 
 ## Web Development
-<a href="#"><img src="https://img.shields.io/badge/html5-%230000?style=for-the-badge&logo=html5&logoColor=d96b39" alt="HTML5"/><a> &nbsp;
+<a href=""><img src="https://img.shields.io/badge/html5-%230000?style=for-the-badge&logo=html5&logoColor=d96b39" alt="HTML5"/><a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/css3-%230000?style=for-the-badge&logo=css3&logoColor=2e4ad7" alt="CSS3"/><a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/javascript-%230000?style=for-the-badge&logo=javascript&logoColor=f2e054" alt="JavaScript"/><a> &nbsp;
 <a href="#"><img src="https://img.shields.io/badge/react-%230000?style=for-the-badge&logo=react&logoColor=387ca0" alt="React"/><a> &nbsp;
