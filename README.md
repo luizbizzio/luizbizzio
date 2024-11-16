@@ -73,7 +73,7 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <img src="https://img.shields.io/badge/Certbot-%230000?style=for-the-badge&logo=probot&logoColor=db3e37" alt="Certbot" />
 ## DevOps Tools
 <img src="https://img.shields.io/badge/git-%230000?style=for-the-badge&logo=git&logoColor=d7593d" alt="Git" /> &nbsp;
-<img src="https://img.shields.io/badge/docker-%230000?style=for-the-badge&logo=docker&logoColor=3e8bdb" alt="Docker" />
+<img src="https://img.shields.io/badge/docker-%230000?style=for-the-badge&logo=docker&logoColor=3e8bdb" alt="Docker" /> &nbsp;
 <img src="https://img.shields.io/badge/Figma-%230000?style=for-the-badge&logo=figma&logoColor=e16038" alt="Figma" /> &nbsp;
 <img src="https://img.shields.io/badge/bash-%230000?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" /> &nbsp;
 <img src="https://img.shields.io/badge/Powershell-%230000?style=for-the-badge&logo=gnubash&logoColor=326ab4" alt="Powershell" />
