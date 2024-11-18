@@ -59,6 +59,7 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <a href="#!"><img src="https://img.shields.io/badge/nginx-%230000?style=for-the-badge&logo=nginx&logoColor=408f43" alt="Nginx"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/apache-%230000?style=for-the-badge&logo=apache&logoColor=983464" alt="Apache"/><a>
 ## Cloud Services
+<a href="#!"><img src="https://img.shields.io/badge/DigitalOcean-%230000?style=for-the-badge&logo=digitalocean&logoColor=0081ff" alt="DigitalOcean"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Cloudflare-%230000?style=for-the-badge&logo=Cloudflare&logoColor=dd8339" alt="Cloudflare"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/github%20pages-%230000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/vercel-%230000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><a> &nbsp;
