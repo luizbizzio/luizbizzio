@@ -1,5 +1,5 @@
 <div>
-    <img src="banner.gif" alt="Banner" style="height:100%; width: 1000px;"/>
+    <img src="banner.png" alt="Banner" style="height:100%; width: 1000px;"/>
 </div>
 
 # Hi there, I'm Luiz 👋👨‍💻
