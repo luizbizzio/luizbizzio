@@ -55,7 +55,6 @@ Below is a list of some of the tools and technologies I use in my projects and w
 ## Databases & Web Servers
 <a href="#!"><img src="https://img.shields.io/badge/sqlite-%230000?style=for-the-badge&logo=sqlite&logoColor=3a7ec6" alt="SQLite"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/MariaDB-%230000?style=for-the-badge&logo=mariadb&logoColor=b6795f" alt="MariaDB"/><a> &nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/MongoDB-%230000?style=for-the-badge&logo=mongodb&logoColor=6ce975" alt="MongoDB"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/nginx-%230000?style=for-the-badge&logo=nginx&logoColor=408f43" alt="Nginx"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/apache-%230000?style=for-the-badge&logo=apache&logoColor=983464" alt="Apache"/><a>
 ## Cloud Services
