@@ -51,7 +51,6 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <a href="#!"><img src="https://img.shields.io/badge/Vue.js-%230000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/python-%230000?style=for-the-badge&logo=python&logoColor=436d9b" alt="Python"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Next.js-%230000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/><a>
-<a href="#!"><img src="https://img.shields.io/badge/react-%230000?style=for-the-badge&logo=react&logoColor=387ca0" alt="React"/><a> &nbsp;
 ## Databases & Web Servers
 <a href="#!"><img src="https://img.shields.io/badge/sqlite-%230000?style=for-the-badge&logo=sqlite&logoColor=3a7ec6" alt="SQLite"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/MariaDB-%230000?style=for-the-badge&logo=mariadb&logoColor=b6795f" alt="MariaDB"/><a> &nbsp;
