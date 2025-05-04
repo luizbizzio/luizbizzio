@@ -22,11 +22,11 @@ I'm Luiz Bizzio, a Business & Technology Specialist dedicated to creating effici
 
 Here are a few of my key projects, each designed to tackle specific needs and deliver valuable insights:
 
+- **[Pihole HTTPS](https://github.com/luizbizzio/pihole-https)**  
+  Enable HTTPS for Pi-hole with automatic SSL certificate generation, Tailscale DNS detection, and cross-platform compatibility for Windows, Linux, macOS, and Android devices.
+
 - **[Grafana All-in-one](https://github.com/luizbizzio/grafana-all-in-one)**  
   A versatile monitoring platform for Raspberry Pi 4, PCs, Solis inverters, PiKVM, and more. This all-in-one solution centralizes data, making it easier to track and analyze multiple systems in one place.
-
-- **[Power Alert](https://github.com/luizbizzio/power-alert)**  
-  A real-time notification system for power outages and restorations, perfect for maintaining energy awareness at home or in business settings.
 
 - **[Tuya Smart Plug Exporter](https://github.com/luizbizzio/tuya-smart-plug-exporter)**  
   Prometheus exporter that provides insights into energy consumption for Tuya smart plugs, giving users a detailed view of their power usage and device performance.
