@@ -45,7 +45,7 @@ Below is a list of some of the tools and technologies I use in my projects and w
 
 ## Web Development
 <a href="#!"><img src="https://img.shields.io/badge/html5-%230000?style=for-the-badge&logo=html5&logoColor=d96b39" alt="HTML5"/><a> &nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/css3-%230000?style=for-the-badge&logo=css3&logoColor=2e4ad7" alt="CSS3"/><a> &nbsp;
+<a href="#!"><img src="https://img.shields.io/badge/css3-%230000?style=for-the-badge&logo=css&logoColor=2e4ad7" alt="CSS3"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/javascript-%230000?style=for-the-badge&logo=javascript&logoColor=f2e054" alt="JavaScript"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Node.js-%230000?style=for-the-badge&logo=node.js&logoColor=94c458" alt="Node.js"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/python-%230000?style=for-the-badge&logo=python&logoColor=436d9b" alt="Python"/><a> &nbsp;
