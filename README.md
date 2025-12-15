@@ -2,46 +2,46 @@
     <img src="banner.png" alt="Banner" style="height:100%; width: 1000px;"/>
 </div>
 
-# Hi there, I'm Luiz 👋👨‍💻
+# Luiz Bizzio
+Business and Technology Specialist
 
-Welcome to my GitHub profile!
-
-I'm Luiz Bizzio, a Business & Technology Specialist dedicated to creating efficient, impactful solutions that bridge the worlds of tech and business. My work centers on developing tools and projects that tackle real-world challenges with creativity and precision.
-
----
-
-## 🚀 What I'm Up To
-
-- **Innovating with Purpose**: Continuously exploring the latest in tech, I’m driven by a passion to transform ideas into practical, high-impact solutions.
-- **Developing Functional Tools**: From monitoring systems to real-time notifications, I’m always building tools that serve unique, valuable purposes.
-- **Bridging Business and Technology**: My background in business and tech enables me to create solutions that enhance operational efficiency and strategic growth.
+I work at the intersection of business and technology, focusing on building structured and executable solutions for real-world problems.
 
 ---
 
-## 🌟 Project Highlights
+## What I Work On
+
+- **Applied Systems**: Turning complex requirements into practical, implementable systems.
+- **Operational Tools**: Building monitoring, automation, and notification tools used in real environments.
+- **Business & Technology Alignment**: Applying technology to support operations, decisions, and execution.
+
+---
+
+## Project Highlights
 
 Here are a few of my key projects, each designed to tackle specific needs and deliver valuable insights:
 
-- **[Pihole HTTPS](https://github.com/luizbizzio/pihole-https)**  
-  Enable HTTPS for Pi-hole with automatic SSL certificate generation, Tailscale DNS detection, and cross-platform compatibility for Windows, Linux, macOS, and Android devices.
-
 - **[Grafana All-in-one](https://github.com/luizbizzio/grafana-all-in-one)**  
   A versatile monitoring platform for Raspberry Pi 4, PCs, Solis inverters, PiKVM, and more. This all-in-one solution centralizes data, making it easier to track and analyze multiple systems in one place.
+  
+- **[Refresh Rate App](https://github.com/luizbizzio/refreshrate)**  
+  Web-based tool designed to analyze display refresh rate and frame behavior in real time, focusing on clarity, visual diagnostics, and performance evaluation.
+
+- **[MyPixel](https://github.com/luizbizzio/mypixel)**  
+  Tool designed to convert and upscale pixel art into clean, scalable vector formats, preserving visual structure while enabling flexible use across digital and print contexts.
+
+- **[Pihole HTTPS](https://github.com/luizbizzio/pihole-https)**  
+  Enable HTTPS for Pi-hole through automated SSL configuration, focusing on secure access and operational simplicity across platforms.
 
 - **[Tuya Smart Plug Exporter](https://github.com/luizbizzio/tuya-smart-plug-exporter)**  
   Prometheus exporter that provides insights into energy consumption for Tuya smart plugs, giving users a detailed view of their power usage and device performance.
-
-- **[Solis Inverter Exporter](https://github.com/luizbizzio/solis-inverter-exporter)**  
-  A Prometheus exporter designed for solar energy monitoring, delivering detailed metrics from Solis inverters to track power generation and performance.
 
 - **[Currency Exporter](https://github.com/luizbizzio/currency-exporter)**  
   Real-time currency exchange rate monitor, optimized for Prometheus. Ideal for staying updated with global exchange rates directly in your monitoring stack.
 
 ---
 
-## 💻 **Tech Stack**
-
-Below is a list of some of the tools and technologies I use in my projects and work.
+## **Tech Stack**
 
 ## Web Development
 <a href="#!"><img src="https://img.shields.io/badge/html5-%230000?style=for-the-badge&logo=html5&logoColor=d96b39" alt="HTML5"/><a> &nbsp;
@@ -52,15 +52,12 @@ Below is a list of some of the tools and technologies I use in my projects and w
 <a href="#!"><img src="https://img.shields.io/badge/Next.js-%230000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/><a>
 ## Databases & Web Servers
 <a href="#!"><img src="https://img.shields.io/badge/sqlite-%230000?style=for-the-badge&logo=sqlite&logoColor=3a7ec6" alt="SQLite"/><a> &nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/MariaDB-%230000?style=for-the-badge&logo=mariadb&logoColor=b6795f" alt="MariaDB"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/nginx-%230000?style=for-the-badge&logo=nginx&logoColor=408f43" alt="Nginx"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/apache-%230000?style=for-the-badge&logo=apache&logoColor=983464" alt="Apache"/><a>
 ## Cloud Services
-<a href="#!"><img src="https://img.shields.io/badge/DigitalOcean-%230000?style=for-the-badge&logo=digitalocean&logoColor=0081ff" alt="DigitalOcean"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/Cloudflare-%230000?style=for-the-badge&logo=Cloudflare&logoColor=dd8339" alt="Cloudflare"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/github%20pages-%230000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/><a> &nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/vercel-%230000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><a> &nbsp;
-<a href="#!"><img src="https://img.shields.io/badge/heroku-%230000?style=for-the-badge&logo=heroku&logoColor=635f9c" alt="Heroku"/><a>
+<a href="#!"><img src="https://img.shields.io/badge/vercel-%230000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/><a>
 ## Monitoring & Logging
 <a href="#!"><img src="https://img.shields.io/badge/grafana-%230000?style=for-the-badge&logo=grafana&logoColor=ee753c" alt="Grafana"/><a> &nbsp;
 <a href="#!"><img src="https://img.shields.io/badge/prometheus-%230000?style=for-the-badge&logo=prometheus&logoColor=d66140" alt="Prometheus"/><a>
@@ -78,12 +75,9 @@ Below is a list of some of the tools and technologies I use in my projects and w
 
 ---
 
-## 📫 Reach Me
+## Contact
 
-Let’s connect! I’m always open to new collaborations, discussions on tech, and networking with like-minded professionals. Feel free to reach out:
+LinkedIn or email for relevant discussions.
 
-- **Instagram**: [@luizbizzio](https://instagram.com/luizbizzio)
-- **LinkedIn**: [@luizbizzio](https://linkedin.com/in/luizbizzio/)
-- **Email**: contact@luizbizzio.com
-
-Let's create amazing things together!
+LinkedIn: https://linkedin.com/in/luizbizzio  
+Email: contact@luizbizzio.com
