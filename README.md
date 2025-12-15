@@ -3,7 +3,7 @@
 </div>
 
 # Luiz Bizzio
-Business and Technology Specialist
+Business & Technology Specialist
 
 I work at the intersection of business and technology, focusing on building structured and executable solutions for real-world problems.
 
