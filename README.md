@@ -2,8 +2,7 @@
     <img src="banner.png" alt="Banner" style="height:100%; width: 1000px;"/>
 </div>
 
-# Luiz Bizzio
-Business & Technology Specialist
+# Luiz Bizzio - Business & Technology
 
 I work at the intersection of business and technology, focusing on building structured and executable solutions for real-world problems.
 
@@ -30,8 +29,8 @@ Here are a few of my key projects, each designed to tackle specific needs and de
 - **[MyPixel](https://github.com/luizbizzio/mypixel)**  
   Tool designed to convert and upscale pixel art into clean, scalable vector formats, preserving visual structure while enabling flexible use across digital and print contexts.
 
-- **[Pihole HTTPS](https://github.com/luizbizzio/pihole-https)**  
-  Enable HTTPS for Pi-hole through automated SSL configuration, focusing on secure access and operational simplicity across platforms.
+- **[Local HTTPS](https://github.com/luizbizzio/local-https)**  
+  Local HTTPS certificate automation for self-hosted services, with focus on security, simplicity, and cross-platform support.
 
 - **[Tuya Smart Plug Exporter](https://github.com/luizbizzio/tuya-smart-plug-exporter)**  
   Prometheus exporter that provides insights into energy consumption for Tuya smart plugs, giving users a detailed view of their power usage and device performance.
